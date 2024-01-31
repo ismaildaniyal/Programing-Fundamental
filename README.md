@@ -12,3 +12,6 @@ This repository hosts a simple yet engaging implementation of the classic Tic-Ta
 **Winning Conditions:** Detects and announces the winner or declares a draw when the game reaches a tie.
 
 **Error Handling:** Handles invalid moves and prompts users to make valid selections.
+
+![image](https://github.com/ismaildaniyal/Programing-Fundamental/assets/158290076/f49e668e-7f3a-4647-91ee-3f3895d12357)
+
